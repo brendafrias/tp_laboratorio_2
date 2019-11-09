@@ -1,0 +1,320 @@
+C:\Users\alumno\Desktop\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\Console TP3.exe.config
+C:\Users\alumno\Desktop\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\Console TP3.exe
+C:\Users\alumno\Desktop\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\Console TP3.pdb
+C:\Users\alumno\Desktop\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\alumno\Desktop\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\netstandard.dll
+C:\Users\alumno\Desktop\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.AppContext.dll
+C:\Users\alumno\Desktop\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\alumno\Desktop\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.Collections.dll
+C:\Users\alumno\Desktop\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\alumno\Desktop\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.Collections.Specialized.dll
+C:\Users\alumno\Desktop\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.ComponentModel.dll
+C:\Users\alumno\Desktop\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\alumno\Desktop\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\alumno\Desktop\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\alumno\Desktop\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.Console.dll
+C:\Users\alumno\Desktop\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.Data.Common.dll
+C:\Users\alumno\Desktop\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\alumno\Desktop\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\alumno\Desktop\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\alumno\Desktop\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\alumno\Desktop\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\alumno\Desktop\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\alumno\Desktop\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\alumno\Desktop\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\alumno\Desktop\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\alumno\Desktop\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\alumno\Desktop\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\alumno\Desktop\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\alumno\Desktop\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.Globalization.dll
+C:\Users\alumno\Desktop\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\alumno\Desktop\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.IO.Compression.dll
+C:\Users\alumno\Desktop\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\alumno\Desktop\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.IO.dll
+C:\Users\alumno\Desktop\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.IO.FileSystem.dll
+C:\Users\alumno\Desktop\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\alumno\Desktop\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\alumno\Desktop\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\alumno\Desktop\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\alumno\Desktop\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\alumno\Desktop\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.IO.Pipes.dll
+C:\Users\alumno\Desktop\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\alumno\Desktop\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.Linq.dll
+C:\Users\alumno\Desktop\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.Linq.Expressions.dll
+C:\Users\alumno\Desktop\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.Linq.Parallel.dll
+C:\Users\alumno\Desktop\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.Linq.Queryable.dll
+C:\Users\alumno\Desktop\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.Net.Http.dll
+C:\Users\alumno\Desktop\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.Net.NameResolution.dll
+C:\Users\alumno\Desktop\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\alumno\Desktop\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.Net.Ping.dll
+C:\Users\alumno\Desktop\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.Net.Primitives.dll
+C:\Users\alumno\Desktop\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.Net.Requests.dll
+C:\Users\alumno\Desktop\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.Net.Security.dll
+C:\Users\alumno\Desktop\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.Net.Sockets.dll
+C:\Users\alumno\Desktop\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\alumno\Desktop\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\alumno\Desktop\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.Net.WebSockets.dll
+C:\Users\alumno\Desktop\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.ObjectModel.dll
+C:\Users\alumno\Desktop\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.Reflection.dll
+C:\Users\alumno\Desktop\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\alumno\Desktop\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\alumno\Desktop\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.Resources.Reader.dll
+C:\Users\alumno\Desktop\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\alumno\Desktop\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.Resources.Writer.dll
+C:\Users\alumno\Desktop\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\alumno\Desktop\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.Runtime.dll
+C:\Users\alumno\Desktop\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\alumno\Desktop\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.Runtime.Handles.dll
+C:\Users\alumno\Desktop\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\alumno\Desktop\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\alumno\Desktop\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\alumno\Desktop\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\alumno\Desktop\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\alumno\Desktop\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\alumno\Desktop\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\alumno\Desktop\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.Security.Claims.dll
+C:\Users\alumno\Desktop\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\alumno\Desktop\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\alumno\Desktop\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\alumno\Desktop\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\alumno\Desktop\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\alumno\Desktop\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.Security.Principal.dll
+C:\Users\alumno\Desktop\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.Security.SecureString.dll
+C:\Users\alumno\Desktop\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.Text.Encoding.dll
+C:\Users\alumno\Desktop\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\alumno\Desktop\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\alumno\Desktop\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.Threading.dll
+C:\Users\alumno\Desktop\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\alumno\Desktop\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.Threading.Tasks.dll
+C:\Users\alumno\Desktop\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\alumno\Desktop\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.Threading.Thread.dll
+C:\Users\alumno\Desktop\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\alumno\Desktop\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.Threading.Timer.dll
+C:\Users\alumno\Desktop\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.ValueTuple.dll
+C:\Users\alumno\Desktop\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\alumno\Desktop\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.Xml.XDocument.dll
+C:\Users\alumno\Desktop\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\alumno\Desktop\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\alumno\Desktop\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.Xml.XPath.dll
+C:\Users\alumno\Desktop\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\alumno\Desktop\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\Frias.Brenda.2A.TP3.dll
+C:\Users\alumno\Desktop\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\Frias.Brenda.2A.TP3.pdb
+C:\Users\alumno\Desktop\Frias.Brenda.2A.TP3\Console TP3\obj\Debug\Console TP3.csprojAssemblyReference.cache
+C:\Users\alumno\Desktop\Frias.Brenda.2A.TP3\Console TP3\obj\Debug\Console TP3.exe.config
+C:\Users\alumno\Desktop\Frias.Brenda.2A.TP3\Console TP3\obj\Debug\Console TP3.csproj.CoreCompileInputs.cache
+C:\Users\alumno\Desktop\Frias.Brenda.2A.TP3\Console TP3\obj\Debug\Console TP3.csproj.CopyComplete
+C:\Users\alumno\Desktop\Frias.Brenda.2A.TP3\Console TP3\obj\Debug\Console TP3.exe
+C:\Users\alumno\Desktop\Frias.Brenda.2A.TP3\Console TP3\obj\Debug\Console TP3.pdb
+F:\usuarios\alumno\Escritorio\tanto que estudiar y tan poco tiempo\TP3\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\Console TP3.exe.config
+F:\usuarios\alumno\Escritorio\tanto que estudiar y tan poco tiempo\TP3\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\Console TP3.exe
+F:\usuarios\alumno\Escritorio\tanto que estudiar y tan poco tiempo\TP3\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\Console TP3.pdb
+F:\usuarios\alumno\Escritorio\tanto que estudiar y tan poco tiempo\TP3\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\Microsoft.Win32.Primitives.dll
+F:\usuarios\alumno\Escritorio\tanto que estudiar y tan poco tiempo\TP3\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\netstandard.dll
+F:\usuarios\alumno\Escritorio\tanto que estudiar y tan poco tiempo\TP3\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.AppContext.dll
+F:\usuarios\alumno\Escritorio\tanto que estudiar y tan poco tiempo\TP3\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.Collections.Concurrent.dll
+F:\usuarios\alumno\Escritorio\tanto que estudiar y tan poco tiempo\TP3\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.Collections.dll
+F:\usuarios\alumno\Escritorio\tanto que estudiar y tan poco tiempo\TP3\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.Collections.NonGeneric.dll
+F:\usuarios\alumno\Escritorio\tanto que estudiar y tan poco tiempo\TP3\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.Collections.Specialized.dll
+F:\usuarios\alumno\Escritorio\tanto que estudiar y tan poco tiempo\TP3\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.ComponentModel.dll
+F:\usuarios\alumno\Escritorio\tanto que estudiar y tan poco tiempo\TP3\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+F:\usuarios\alumno\Escritorio\tanto que estudiar y tan poco tiempo\TP3\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.ComponentModel.Primitives.dll
+F:\usuarios\alumno\Escritorio\tanto que estudiar y tan poco tiempo\TP3\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.ComponentModel.TypeConverter.dll
+F:\usuarios\alumno\Escritorio\tanto que estudiar y tan poco tiempo\TP3\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.Console.dll
+F:\usuarios\alumno\Escritorio\tanto que estudiar y tan poco tiempo\TP3\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.Data.Common.dll
+F:\usuarios\alumno\Escritorio\tanto que estudiar y tan poco tiempo\TP3\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.Diagnostics.Contracts.dll
+F:\usuarios\alumno\Escritorio\tanto que estudiar y tan poco tiempo\TP3\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.Diagnostics.Debug.dll
+F:\usuarios\alumno\Escritorio\tanto que estudiar y tan poco tiempo\TP3\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+F:\usuarios\alumno\Escritorio\tanto que estudiar y tan poco tiempo\TP3\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.Diagnostics.Process.dll
+F:\usuarios\alumno\Escritorio\tanto que estudiar y tan poco tiempo\TP3\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.Diagnostics.StackTrace.dll
+F:\usuarios\alumno\Escritorio\tanto que estudiar y tan poco tiempo\TP3\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+F:\usuarios\alumno\Escritorio\tanto que estudiar y tan poco tiempo\TP3\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.Diagnostics.Tools.dll
+F:\usuarios\alumno\Escritorio\tanto que estudiar y tan poco tiempo\TP3\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.Diagnostics.TraceSource.dll
+F:\usuarios\alumno\Escritorio\tanto que estudiar y tan poco tiempo\TP3\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.Diagnostics.Tracing.dll
+F:\usuarios\alumno\Escritorio\tanto que estudiar y tan poco tiempo\TP3\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.Drawing.Primitives.dll
+F:\usuarios\alumno\Escritorio\tanto que estudiar y tan poco tiempo\TP3\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.Dynamic.Runtime.dll
+F:\usuarios\alumno\Escritorio\tanto que estudiar y tan poco tiempo\TP3\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.Globalization.Calendars.dll
+F:\usuarios\alumno\Escritorio\tanto que estudiar y tan poco tiempo\TP3\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.Globalization.dll
+F:\usuarios\alumno\Escritorio\tanto que estudiar y tan poco tiempo\TP3\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.Globalization.Extensions.dll
+F:\usuarios\alumno\Escritorio\tanto que estudiar y tan poco tiempo\TP3\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.IO.Compression.dll
+F:\usuarios\alumno\Escritorio\tanto que estudiar y tan poco tiempo\TP3\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.IO.Compression.ZipFile.dll
+F:\usuarios\alumno\Escritorio\tanto que estudiar y tan poco tiempo\TP3\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.IO.dll
+F:\usuarios\alumno\Escritorio\tanto que estudiar y tan poco tiempo\TP3\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.IO.FileSystem.dll
+F:\usuarios\alumno\Escritorio\tanto que estudiar y tan poco tiempo\TP3\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+F:\usuarios\alumno\Escritorio\tanto que estudiar y tan poco tiempo\TP3\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.IO.FileSystem.Primitives.dll
+F:\usuarios\alumno\Escritorio\tanto que estudiar y tan poco tiempo\TP3\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.IO.FileSystem.Watcher.dll
+F:\usuarios\alumno\Escritorio\tanto que estudiar y tan poco tiempo\TP3\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.IO.IsolatedStorage.dll
+F:\usuarios\alumno\Escritorio\tanto que estudiar y tan poco tiempo\TP3\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.IO.MemoryMappedFiles.dll
+F:\usuarios\alumno\Escritorio\tanto que estudiar y tan poco tiempo\TP3\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.IO.Pipes.dll
+F:\usuarios\alumno\Escritorio\tanto que estudiar y tan poco tiempo\TP3\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+F:\usuarios\alumno\Escritorio\tanto que estudiar y tan poco tiempo\TP3\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.Linq.dll
+F:\usuarios\alumno\Escritorio\tanto que estudiar y tan poco tiempo\TP3\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.Linq.Expressions.dll
+F:\usuarios\alumno\Escritorio\tanto que estudiar y tan poco tiempo\TP3\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.Linq.Parallel.dll
+F:\usuarios\alumno\Escritorio\tanto que estudiar y tan poco tiempo\TP3\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.Linq.Queryable.dll
+F:\usuarios\alumno\Escritorio\tanto que estudiar y tan poco tiempo\TP3\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.Net.Http.dll
+F:\usuarios\alumno\Escritorio\tanto que estudiar y tan poco tiempo\TP3\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.Net.NameResolution.dll
+F:\usuarios\alumno\Escritorio\tanto que estudiar y tan poco tiempo\TP3\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.Net.NetworkInformation.dll
+F:\usuarios\alumno\Escritorio\tanto que estudiar y tan poco tiempo\TP3\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.Net.Ping.dll
+F:\usuarios\alumno\Escritorio\tanto que estudiar y tan poco tiempo\TP3\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.Net.Primitives.dll
+F:\usuarios\alumno\Escritorio\tanto que estudiar y tan poco tiempo\TP3\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.Net.Requests.dll
+F:\usuarios\alumno\Escritorio\tanto que estudiar y tan poco tiempo\TP3\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.Net.Security.dll
+F:\usuarios\alumno\Escritorio\tanto que estudiar y tan poco tiempo\TP3\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.Net.Sockets.dll
+F:\usuarios\alumno\Escritorio\tanto que estudiar y tan poco tiempo\TP3\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.Net.WebHeaderCollection.dll
+F:\usuarios\alumno\Escritorio\tanto que estudiar y tan poco tiempo\TP3\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.Net.WebSockets.Client.dll
+F:\usuarios\alumno\Escritorio\tanto que estudiar y tan poco tiempo\TP3\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.Net.WebSockets.dll
+F:\usuarios\alumno\Escritorio\tanto que estudiar y tan poco tiempo\TP3\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.ObjectModel.dll
+F:\usuarios\alumno\Escritorio\tanto que estudiar y tan poco tiempo\TP3\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.Reflection.dll
+F:\usuarios\alumno\Escritorio\tanto que estudiar y tan poco tiempo\TP3\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.Reflection.Extensions.dll
+F:\usuarios\alumno\Escritorio\tanto que estudiar y tan poco tiempo\TP3\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.Reflection.Primitives.dll
+F:\usuarios\alumno\Escritorio\tanto que estudiar y tan poco tiempo\TP3\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.Resources.Reader.dll
+F:\usuarios\alumno\Escritorio\tanto que estudiar y tan poco tiempo\TP3\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.Resources.ResourceManager.dll
+F:\usuarios\alumno\Escritorio\tanto que estudiar y tan poco tiempo\TP3\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.Resources.Writer.dll
+F:\usuarios\alumno\Escritorio\tanto que estudiar y tan poco tiempo\TP3\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+F:\usuarios\alumno\Escritorio\tanto que estudiar y tan poco tiempo\TP3\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.Runtime.dll
+F:\usuarios\alumno\Escritorio\tanto que estudiar y tan poco tiempo\TP3\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.Runtime.Extensions.dll
+F:\usuarios\alumno\Escritorio\tanto que estudiar y tan poco tiempo\TP3\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.Runtime.Handles.dll
+F:\usuarios\alumno\Escritorio\tanto que estudiar y tan poco tiempo\TP3\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.Runtime.InteropServices.dll
+F:\usuarios\alumno\Escritorio\tanto que estudiar y tan poco tiempo\TP3\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\usuarios\alumno\Escritorio\tanto que estudiar y tan poco tiempo\TP3\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.Runtime.Numerics.dll
+F:\usuarios\alumno\Escritorio\tanto que estudiar y tan poco tiempo\TP3\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.Runtime.Serialization.Formatters.dll
+F:\usuarios\alumno\Escritorio\tanto que estudiar y tan poco tiempo\TP3\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.Runtime.Serialization.Json.dll
+F:\usuarios\alumno\Escritorio\tanto que estudiar y tan poco tiempo\TP3\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.Runtime.Serialization.Primitives.dll
+F:\usuarios\alumno\Escritorio\tanto que estudiar y tan poco tiempo\TP3\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.Runtime.Serialization.Xml.dll
+F:\usuarios\alumno\Escritorio\tanto que estudiar y tan poco tiempo\TP3\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.Security.Claims.dll
+F:\usuarios\alumno\Escritorio\tanto que estudiar y tan poco tiempo\TP3\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.Security.Cryptography.Algorithms.dll
+F:\usuarios\alumno\Escritorio\tanto que estudiar y tan poco tiempo\TP3\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.Security.Cryptography.Csp.dll
+F:\usuarios\alumno\Escritorio\tanto que estudiar y tan poco tiempo\TP3\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.Security.Cryptography.Encoding.dll
+F:\usuarios\alumno\Escritorio\tanto que estudiar y tan poco tiempo\TP3\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.Security.Cryptography.Primitives.dll
+F:\usuarios\alumno\Escritorio\tanto que estudiar y tan poco tiempo\TP3\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+F:\usuarios\alumno\Escritorio\tanto que estudiar y tan poco tiempo\TP3\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.Security.Principal.dll
+F:\usuarios\alumno\Escritorio\tanto que estudiar y tan poco tiempo\TP3\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.Security.SecureString.dll
+F:\usuarios\alumno\Escritorio\tanto que estudiar y tan poco tiempo\TP3\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.Text.Encoding.dll
+F:\usuarios\alumno\Escritorio\tanto que estudiar y tan poco tiempo\TP3\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.Text.Encoding.Extensions.dll
+F:\usuarios\alumno\Escritorio\tanto que estudiar y tan poco tiempo\TP3\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.Text.RegularExpressions.dll
+F:\usuarios\alumno\Escritorio\tanto que estudiar y tan poco tiempo\TP3\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.Threading.dll
+F:\usuarios\alumno\Escritorio\tanto que estudiar y tan poco tiempo\TP3\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.Threading.Overlapped.dll
+F:\usuarios\alumno\Escritorio\tanto que estudiar y tan poco tiempo\TP3\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.Threading.Tasks.dll
+F:\usuarios\alumno\Escritorio\tanto que estudiar y tan poco tiempo\TP3\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.Threading.Tasks.Parallel.dll
+F:\usuarios\alumno\Escritorio\tanto que estudiar y tan poco tiempo\TP3\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.Threading.Thread.dll
+F:\usuarios\alumno\Escritorio\tanto que estudiar y tan poco tiempo\TP3\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.Threading.ThreadPool.dll
+F:\usuarios\alumno\Escritorio\tanto que estudiar y tan poco tiempo\TP3\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.Threading.Timer.dll
+F:\usuarios\alumno\Escritorio\tanto que estudiar y tan poco tiempo\TP3\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.ValueTuple.dll
+F:\usuarios\alumno\Escritorio\tanto que estudiar y tan poco tiempo\TP3\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.Xml.ReaderWriter.dll
+F:\usuarios\alumno\Escritorio\tanto que estudiar y tan poco tiempo\TP3\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.Xml.XDocument.dll
+F:\usuarios\alumno\Escritorio\tanto que estudiar y tan poco tiempo\TP3\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.Xml.XmlDocument.dll
+F:\usuarios\alumno\Escritorio\tanto que estudiar y tan poco tiempo\TP3\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.Xml.XmlSerializer.dll
+F:\usuarios\alumno\Escritorio\tanto que estudiar y tan poco tiempo\TP3\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.Xml.XPath.dll
+F:\usuarios\alumno\Escritorio\tanto que estudiar y tan poco tiempo\TP3\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.Xml.XPath.XDocument.dll
+F:\usuarios\alumno\Escritorio\tanto que estudiar y tan poco tiempo\TP3\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\Frias.Brenda.2A.TP3.dll
+F:\usuarios\alumno\Escritorio\tanto que estudiar y tan poco tiempo\TP3\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\Frias.Brenda.2A.TP3.pdb
+F:\usuarios\alumno\Escritorio\tanto que estudiar y tan poco tiempo\TP3\Frias.Brenda.2A.TP3\Console TP3\obj\Debug\Console TP3.exe.config
+F:\usuarios\alumno\Escritorio\tanto que estudiar y tan poco tiempo\TP3\Frias.Brenda.2A.TP3\Console TP3\obj\Debug\Console TP3.csproj.CoreCompileInputs.cache
+F:\usuarios\alumno\Escritorio\tanto que estudiar y tan poco tiempo\TP3\Frias.Brenda.2A.TP3\Console TP3\obj\Debug\Console TP3.csproj.CopyComplete
+F:\usuarios\alumno\Escritorio\tanto que estudiar y tan poco tiempo\TP3\Frias.Brenda.2A.TP3\Console TP3\obj\Debug\Console TP3.exe
+F:\usuarios\alumno\Escritorio\tanto que estudiar y tan poco tiempo\TP3\Frias.Brenda.2A.TP3\Console TP3\obj\Debug\Console TP3.pdb
+C:\Users\Brenda\Desktop\TP3\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\Console TP3.exe.config
+C:\Users\Brenda\Desktop\TP3\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\Console TP3.exe
+C:\Users\Brenda\Desktop\TP3\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\Console TP3.pdb
+C:\Users\Brenda\Desktop\TP3\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\Brenda\Desktop\TP3\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\netstandard.dll
+C:\Users\Brenda\Desktop\TP3\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.AppContext.dll
+C:\Users\Brenda\Desktop\TP3\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\Brenda\Desktop\TP3\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.Collections.dll
+C:\Users\Brenda\Desktop\TP3\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\Brenda\Desktop\TP3\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.Collections.Specialized.dll
+C:\Users\Brenda\Desktop\TP3\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.ComponentModel.dll
+C:\Users\Brenda\Desktop\TP3\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Brenda\Desktop\TP3\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\Brenda\Desktop\TP3\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\Brenda\Desktop\TP3\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.Console.dll
+C:\Users\Brenda\Desktop\TP3\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.Data.Common.dll
+C:\Users\Brenda\Desktop\TP3\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\Brenda\Desktop\TP3\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\Brenda\Desktop\TP3\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Brenda\Desktop\TP3\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\Brenda\Desktop\TP3\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\Brenda\Desktop\TP3\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Brenda\Desktop\TP3\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\Brenda\Desktop\TP3\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\Brenda\Desktop\TP3\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\Brenda\Desktop\TP3\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\Brenda\Desktop\TP3\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\Brenda\Desktop\TP3\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\Brenda\Desktop\TP3\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.Globalization.dll
+C:\Users\Brenda\Desktop\TP3\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\Brenda\Desktop\TP3\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.IO.Compression.dll
+C:\Users\Brenda\Desktop\TP3\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\Brenda\Desktop\TP3\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.IO.dll
+C:\Users\Brenda\Desktop\TP3\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.IO.FileSystem.dll
+C:\Users\Brenda\Desktop\TP3\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Brenda\Desktop\TP3\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Brenda\Desktop\TP3\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\Brenda\Desktop\TP3\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\Brenda\Desktop\TP3\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\Brenda\Desktop\TP3\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.IO.Pipes.dll
+C:\Users\Brenda\Desktop\TP3\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Brenda\Desktop\TP3\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.Linq.dll
+C:\Users\Brenda\Desktop\TP3\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.Linq.Expressions.dll
+C:\Users\Brenda\Desktop\TP3\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.Linq.Parallel.dll
+C:\Users\Brenda\Desktop\TP3\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.Linq.Queryable.dll
+C:\Users\Brenda\Desktop\TP3\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.Net.Http.dll
+C:\Users\Brenda\Desktop\TP3\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.Net.NameResolution.dll
+C:\Users\Brenda\Desktop\TP3\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\Brenda\Desktop\TP3\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.Net.Ping.dll
+C:\Users\Brenda\Desktop\TP3\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.Net.Primitives.dll
+C:\Users\Brenda\Desktop\TP3\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.Net.Requests.dll
+C:\Users\Brenda\Desktop\TP3\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.Net.Security.dll
+C:\Users\Brenda\Desktop\TP3\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.Net.Sockets.dll
+C:\Users\Brenda\Desktop\TP3\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\Brenda\Desktop\TP3\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\Brenda\Desktop\TP3\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.Net.WebSockets.dll
+C:\Users\Brenda\Desktop\TP3\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.ObjectModel.dll
+C:\Users\Brenda\Desktop\TP3\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.Reflection.dll
+C:\Users\Brenda\Desktop\TP3\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\Brenda\Desktop\TP3\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\Brenda\Desktop\TP3\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.Resources.Reader.dll
+C:\Users\Brenda\Desktop\TP3\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\Brenda\Desktop\TP3\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.Resources.Writer.dll
+C:\Users\Brenda\Desktop\TP3\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Brenda\Desktop\TP3\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.Runtime.dll
+C:\Users\Brenda\Desktop\TP3\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\Brenda\Desktop\TP3\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.Runtime.Handles.dll
+C:\Users\Brenda\Desktop\TP3\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\Brenda\Desktop\TP3\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Brenda\Desktop\TP3\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\Brenda\Desktop\TP3\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\Brenda\Desktop\TP3\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\Brenda\Desktop\TP3\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\Brenda\Desktop\TP3\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\Brenda\Desktop\TP3\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.Security.Claims.dll
+C:\Users\Brenda\Desktop\TP3\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Brenda\Desktop\TP3\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\Brenda\Desktop\TP3\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\Brenda\Desktop\TP3\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\Brenda\Desktop\TP3\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Brenda\Desktop\TP3\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.Security.Principal.dll
+C:\Users\Brenda\Desktop\TP3\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.Security.SecureString.dll
+C:\Users\Brenda\Desktop\TP3\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.Text.Encoding.dll
+C:\Users\Brenda\Desktop\TP3\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\Brenda\Desktop\TP3\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\Brenda\Desktop\TP3\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.Threading.dll
+C:\Users\Brenda\Desktop\TP3\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\Brenda\Desktop\TP3\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.Threading.Tasks.dll
+C:\Users\Brenda\Desktop\TP3\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\Brenda\Desktop\TP3\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.Threading.Thread.dll
+C:\Users\Brenda\Desktop\TP3\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\Brenda\Desktop\TP3\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.Threading.Timer.dll
+C:\Users\Brenda\Desktop\TP3\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.ValueTuple.dll
+C:\Users\Brenda\Desktop\TP3\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\Brenda\Desktop\TP3\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.Xml.XDocument.dll
+C:\Users\Brenda\Desktop\TP3\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\Brenda\Desktop\TP3\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\Brenda\Desktop\TP3\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.Xml.XPath.dll
+C:\Users\Brenda\Desktop\TP3\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\Brenda\Desktop\TP3\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\Frias.Brenda.2A.TP3.dll
+C:\Users\Brenda\Desktop\TP3\Frias.Brenda.2A.TP3\Console TP3\bin\Debug\Frias.Brenda.2A.TP3.pdb
+C:\Users\Brenda\Desktop\TP3\Frias.Brenda.2A.TP3\Console TP3\obj\Debug\Console TP3.csprojAssemblyReference.cache
+C:\Users\Brenda\Desktop\TP3\Frias.Brenda.2A.TP3\Console TP3\obj\Debug\Console TP3.exe.config
+C:\Users\Brenda\Desktop\TP3\Frias.Brenda.2A.TP3\Console TP3\obj\Debug\Console TP3.csproj.CoreCompileInputs.cache
+C:\Users\Brenda\Desktop\TP3\Frias.Brenda.2A.TP3\Console TP3\obj\Debug\Console TP3.csproj.CopyComplete
+C:\Users\Brenda\Desktop\TP3\Frias.Brenda.2A.TP3\Console TP3\obj\Debug\Console TP3.exe
+C:\Users\Brenda\Desktop\TP3\Frias.Brenda.2A.TP3\Console TP3\obj\Debug\Console TP3.pdb
