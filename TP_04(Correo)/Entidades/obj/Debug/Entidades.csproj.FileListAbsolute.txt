@@ -1,0 +1,21 @@
+E:\Facu\laboratorio-ii\Gomez.Agustin.2A\Entidades\bin\Debug\Entidades.dll.config
+E:\Facu\laboratorio-ii\Gomez.Agustin.2A\Entidades\bin\Debug\Entidades.dll
+E:\Facu\laboratorio-ii\Gomez.Agustin.2A\Entidades\bin\Debug\Entidades.pdb
+E:\Facu\laboratorio-ii\Gomez.Agustin.2A\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+E:\Facu\laboratorio-ii\Gomez.Agustin.2A\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+E:\Facu\laboratorio-ii\Gomez.Agustin.2A\Entidades\obj\Debug\Entidades.dll
+E:\Facu\laboratorio-ii\Gomez.Agustin.2A\Entidades\obj\Debug\Entidades.pdb
+E:\Facu\laboratorio-ii\Gomez.Agustin.2A\Trabajos Practicos\TP 4\Entidades\bin\Debug\Entidades.dll.config
+E:\Facu\laboratorio-ii\Gomez.Agustin.2A\Trabajos Practicos\TP 4\Entidades\bin\Debug\Entidades.dll
+E:\Facu\laboratorio-ii\Gomez.Agustin.2A\Trabajos Practicos\TP 4\Entidades\bin\Debug\Entidades.pdb
+E:\Facu\laboratorio-ii\Gomez.Agustin.2A\Trabajos Practicos\TP 4\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+E:\Facu\laboratorio-ii\Gomez.Agustin.2A\Trabajos Practicos\TP 4\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+E:\Facu\laboratorio-ii\Gomez.Agustin.2A\Trabajos Practicos\TP 4\Entidades\obj\Debug\Entidades.dll
+E:\Facu\laboratorio-ii\Gomez.Agustin.2A\Trabajos Practicos\TP 4\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Brenda\Desktop\Trabajo 4 (Correo)\Entidades\bin\Debug\Entidades.dll.config
+C:\Users\Brenda\Desktop\Trabajo 4 (Correo)\Entidades\bin\Debug\Entidades.dll
+C:\Users\Brenda\Desktop\Trabajo 4 (Correo)\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Brenda\Desktop\Trabajo 4 (Correo)\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Brenda\Desktop\Trabajo 4 (Correo)\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Brenda\Desktop\Trabajo 4 (Correo)\Entidades\obj\Debug\Entidades.dll
+C:\Users\Brenda\Desktop\Trabajo 4 (Correo)\Entidades\obj\Debug\Entidades.pdb
