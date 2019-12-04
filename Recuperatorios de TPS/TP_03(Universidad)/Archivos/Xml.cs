@@ -12,11 +12,12 @@ namespace Archivos
     public class Xml<T> : IArchivo<T>
     {
         /// <summary>
-        /// Serializa un objeto de cualquier tipo en un archivo xml. 
+        /// Metodo Guardar ---> De la interfaz IArchivo
         /// </summary>
-        /// <param name="archivo">Ruta al archivo xml.</param>
-        /// <param name="datos">Objeto a serializar.</param>
-        /// <returns>Retorna <see cref="true"/> si el archivo se serializo exitosamente. De no ser asi se lanza <see cref="ArchivosException"/>.</returns>
+        /// <param name="archivo"> PATH del archivo </param>
+        /// <param name="datos"> Datos a serializar </param>
+        /// <returns> TRUE -> Se pudo guardar // FALSE -> No se pudo guardar </returns>
+        /// 
         public bool Guardar(string archivo, T datos)
         {
             bool retorno = false;
@@ -37,11 +38,11 @@ namespace Archivos
         }
 
         /// <summary>
-        /// Deserializa un archivo xml y retorna el contenido como un objeto.
+        /// Metodo para leer ---> De la interfaz IArchivo
         /// </summary>
-        /// <param name="archivo">Ruta al archivo xml.</param>
-        /// <param name="datos">Parametro de salida que retornara el objeto deserializado.</param>
-        /// <returns>Retorna <see cref="true"/> si se deserializo exitosamente. De no ser asi se lanza <see cref="ArchivosException"/></returns>
+        /// <param name="archivo"> PATH del archivo </param>
+        /// <param name="datos"> Datos que se van a leer </param>
+        /// <returns> TRUE -> Se pudo leer // FALSE -> No se pudo leer </returns>
         public bool Leer(string archivo, out T datos)
         {
             bool retorno = false;
@@ -50,11 +51,11 @@ namespace Archivos
                 using (TextReader reader = new StreamReader(archivo))
                 {
                     XmlSerializer xml = new XmlSerializer(typeof(T));
-                    datos = (T) xml.Deserialize(reader);
+                    datos = (T)xml.Deserialize(reader);
                     retorno = true;
                 }
             }
-            catch(Exception e)
+            catch (Exception e)
             {
                 throw new ArchivosException(e);
             }
@@ -62,3 +63,4 @@ namespace Archivos
         }
     }
 }
+

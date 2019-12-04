@@ -10,16 +10,20 @@ namespace EntidadesAbstractas
     public abstract class Persona
     {
         #region Atributos
+        // Atributo privado que representa apellido.
         private string apellido;
+        // Atributo privado que representa DNI.
         private int dni;
+        // Atributo privado que representa nacionalidad.
         private ENacionalidad nacionalidad;
+        // Atributo privado que representa nombre.
         private string nombre;
 
         #endregion
 
         #region Propiedades
         /// <summary>
-        /// Obtiene o establece el Apellido de una <see cref="Persona"/>
+        /// Propiedad de lectura y escritura que valida que se haya ingresado un APELLIDO.
         /// </summary>
         public string Apellido
         {
@@ -27,48 +31,17 @@ namespace EntidadesAbstractas
             {
                 return this.apellido;
             }
-
             set
             {
                 this.apellido = this.ValidarNombreApellido(value);
             }
         }
 
-        /// <summary>
-        /// Obtiene o establece el DNI de una <see cref="Persona"/>
-        /// </summary>
-        public int DNI
-        {
-            get
-            {
-                return this.dni;
-            }
-
-            set
-            {
-                this.dni = this.ValidarDni(this.Nacionalidad, value);
-            }
-        }
 
         /// <summary>
-        /// Obtiene o establece la Nacionalidad de una <see cref="Persona"/>
+        /// Propiedad de lectura y escritura que valida que se haya ingresado un NOMBRE.
         /// </summary>
-        public ENacionalidad Nacionalidad
-        {
-            get
-            {
-               return this.nacionalidad;
-            }
 
-            set
-            {
-                this.nacionalidad = value;
-            }
-        }
-
-        /// <summary>
-        /// Obtiene o establece el nombre de una <see cref="Persona"/>
-        /// </summary>
         public string Nombre
         {
             get
@@ -82,16 +55,51 @@ namespace EntidadesAbstractas
             }
         }
 
+
         /// <summary>
-        /// Establece el DNI de una persona (de tipo <see cref="string"/>)
+        /// Propiedad de lectura y escritura que valida que se haya ingresado un DNI.
         /// </summary>
+
+        public int DNI
+        {
+            get
+            {
+                return this.dni;
+            }
+            set
+            {
+                this.dni = this.ValidarDni(this.Nacionalidad, value);
+            }
+        }
+
+        /// <summary>
+        /// Propiedad de lectura y escritura para el enumerado Nacionalidad.
+        /// </summary>
+
+        public ENacionalidad Nacionalidad
+        {
+            get
+            {
+                return this.nacionalidad;
+            }
+            set
+            {
+                this.nacionalidad = value;
+            }
+        }
+
+        /// <summary>
+        /// Propiedad de solo escritura para el atributo DNI
+        /// </summary>
+
         public string StringToDNI
         {
             set
             {
-                this.DNI = ValidarDni(this.Nacionalidad, value);
+                this.dni = this.ValidarDni(this.Nacionalidad, value);
             }
         }
+
         #endregion
 
         #region Constructores
@@ -103,11 +111,11 @@ namespace EntidadesAbstractas
         }
 
         /// <summary>
-        /// Inicializa una nueva instancia de la Clase <see cref="Persona"/>.
+        /// Constructor de Persona, con 3 parametros
         /// </summary>
-        /// <param name="nombre">Nombre de la Persona</param>
-        /// <param name="apellido">Apellido de la Persona</param>
-        /// <param name="nacionalidad">Nacionalidad de la Persona</param>
+        /// <param name="nombre"> Nombre de la persona </param>
+        /// <param name="apellido"> Apellido de la persona </param>
+        /// <param name="nacionalidad"> Nacionalidad de persona </param>
         public Persona(string nombre, string apellido, ENacionalidad nacionalidad)
         {
             this.Nombre = nombre;
@@ -116,25 +124,25 @@ namespace EntidadesAbstractas
         }
 
         /// <summary>
-        /// Inicializa una nueva instancia de la Clase <see cref="Persona"/>.
+        /// Constructor de Persona. Invoca al constructor de 3 parametros
         /// </summary>
-        /// <param name="nombre">Nombre de la Persona</param>
-        /// <param name="apellido">Apellido de la Persona</param>
-        /// <param name="dni">DNI de la Persona (de tipo <see cref="int"/>)</param>
-        /// <param name="nacionalidad">Nacionalidad de la Persona</param>
-        public Persona(string nombre, string apellido, int dni, ENacionalidad nacionalidad) : this(nombre,apellido,nacionalidad)
+        /// <param name="nombre"> Nombre de persona </param>
+        /// <param name="apellido"> Apellido de persona </param>
+        /// <param name="dni"> Dni de persona </param>
+        /// <param name="nacionalidad"> N acionalidad de persona </param>
+        public Persona(string nombre, string apellido, int dni, ENacionalidad nacionalidad) : this(nombre, apellido, nacionalidad)
         {
             this.DNI = dni;
         }
 
         /// <summary>
-        /// Inicializa una nueva instancia de la Clase persona.
+        /// Constructor de Persona. Invoca al constructor de 3 parametros. Incuye la propiedad StringToDni.
         /// </summary>
-        /// <param name="nombre">Nombre de la Persona</param>
-        /// <param name="apellido">Apellido de la Persona</param>
-        /// <param name="dni">DNI de la Persona (de tipo <see cref="string"/>)</param>
-        /// <param name="nacionalidad">Nacionalidad de la Persona</param>
-        public Persona(string nombre, string apellido, string dni, ENacionalidad nacionalidad) : this(nombre,apellido,nacionalidad)
+        /// <param name="nombre"> Nombre de persona </param>
+        /// <param name="apellido"> Apellido de persona </param>
+        /// <param name="dni"> Dni de persona </param>
+        /// <param name="nacionalidad"> Nacionalidad de persona </param>
+        public Persona(string nombre, string apellido, string dni, ENacionalidad nacionalidad) : this(nombre, apellido, nacionalidad)
         {
             this.StringToDNI = dni;
         }
@@ -154,11 +162,11 @@ namespace EntidadesAbstractas
         }
 
         /// <summary>
-        /// Valida que un DNI este entre los rangos apropiados para las distintas nacionalidades.
+        /// Valida el formato del DNI dependiendo de la Persona. Pero validando el DNI como STRING.
         /// </summary>
-        /// <param name="nacionalidad">Nacionalidad que servira para establecer los rangos en los que se debera encontrar el DNI</param>
-        /// <param name="dato">DNI a validar</param>
-        /// <returns>Retorna el DNI validado. Si el DNI es invalido para la nacionalidad, lanza <see cref="NacionalidadInvalidaException"/>.</returns>
+        /// <param name="nacionalidad"> Nacionalidad de persona </param>
+        /// <param name="dato"> Dni de persona </param>
+        /// <returns> Retorna el dni de la persona </returns>
         private int ValidarDni(ENacionalidad nacionalidad, int dato)
         {
             int retorno = 0;
@@ -246,3 +254,4 @@ namespace EntidadesAbstractas
         #endregion
     }
 }
+

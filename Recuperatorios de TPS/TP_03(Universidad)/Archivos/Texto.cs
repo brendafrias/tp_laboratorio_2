@@ -10,12 +10,12 @@ namespace Archivos
 {
     public class Texto : IArchivo<string>
     {
-        /// <summary>
-        /// Guarda la cadena especificada en un archivo de Texto.
+        // <summary>
+        /// Metodo para guardar.
         /// </summary>
-        /// <param name="archivo">Ruta al archivo.</param>
-        /// <param name="datos">Datos a guardarse en el archivo.</param>
-        /// <returns>Retorna <see cref="true"/> si el archivo se guardo con exito. De no ser asi, se lanza <see cref="ArchivosException"/>.</returns>
+        /// <param name="archivo"> PATH del archivo </param>
+        /// <param name="datos"> Datos que se van a guardar </param>
+        /// <returns> True -> Guardo los datos // False -> No los guardo </returns>
         public bool Guardar(string archivo, string datos)
         {
             bool retorno = false;
@@ -27,7 +27,7 @@ namespace Archivos
                     retorno = true;
                 }
             }
-            catch(Exception e)
+            catch (Exception e)
             {
                 throw new ArchivosException(e);
             }
@@ -35,11 +35,11 @@ namespace Archivos
         }
 
         /// <summary>
-        /// Lee un archivo de Texto y retorna los datos.
+        /// Metodo para leer .
         /// </summary>
-        /// <param name="archivo">Ruta al archivo.</param>
-        /// <param name="datos">Parametro de salida que contiene los datos leidos del archivo.</param>
-        /// <returns>Retorna <see cref="true"/> si logro leerse el archivo. De no ser asi, se lanza <see cref="ArchivosException"/>.</returns>
+        /// <param name="archivo"> PATH del archivo </param>
+        /// <param name="datos"> Cadena donde se van a guardar los que se va a leer </param>
+        /// <returns> True -> Pudo leer los datos // False -> No pudo leer los datos </returns>
         public bool Leer(string archivo, out string datos)
         {
             datos = "";
@@ -52,7 +52,7 @@ namespace Archivos
                     retorno = true;
                 }
             }
-            catch(Exception e)
+            catch (Exception e)
             {
                 throw new ArchivosException(e);
             }

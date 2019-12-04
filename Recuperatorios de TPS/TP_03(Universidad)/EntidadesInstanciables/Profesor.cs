@@ -10,7 +10,9 @@ namespace EntidadesInstanciables
     public sealed class Profesor : Universitario
     {
         #region Atributos
+        // Queue privada. 
         private Queue<Universidad.EClases> clasesDelDia;
+        // Atributo privado estatico que genera un random.
         private static Random random;
         #endregion
 
@@ -38,7 +40,7 @@ namespace EntidadesInstanciables
         /// <param name="apellido">Apellido del Profesor.</param>
         /// <param name="dni">DNI del Profesor</param>
         /// <param name="nacionalidad">Nacionalidad del Profesor.</param>
-        public Profesor(int id, string nombre, string apellido, string dni, ENacionalidad nacionalidad) : base(id,nombre,apellido,dni,nacionalidad)
+        public Profesor(int id, string nombre, string apellido, string dni, ENacionalidad nacionalidad) : base(id, nombre, apellido, dni, nacionalidad)
         {
             this.clasesDelDia = new Queue<Universidad.EClases>();
             this._randomClases();
@@ -47,9 +49,9 @@ namespace EntidadesInstanciables
 
         #region Metodos
         /// <summary>
-        /// Muestra los datos de una instancia de un <see cref="Profesor"/>.
+        /// Sobrecarga de metodo MostrarDatos()
         /// </summary>
-        /// <returns>Retorna un <see cref="string"/> que contiene todos los datos del <see cref="Profesor"/></returns>
+        /// <returns> Retorna los datos de profesor </returns>
         protected override string MostrarDatos()
         {
             StringBuilder sb = new StringBuilder();
@@ -68,9 +70,9 @@ namespace EntidadesInstanciables
         }
 
         /// <summary>
-        /// Muestra que clase dicta el <see cref="Profesor"/>
+        /// Sobrecarga de metodo ParticiparEnClase()
         /// </summary>
-        /// <returns>Retorna un <see cref="string"/> que contiene la clase dictada por el <see cref="Profesor"/></returns>
+        /// <returns> Retorna el nombre de la clases que da el profesor</returns>
         protected override string ParticiparEnClase()
         {
             StringBuilder sb = new StringBuilder();
@@ -94,17 +96,17 @@ namespace EntidadesInstanciables
 
         #region Operadores
         /// <summary>
-        /// Verifica si un <see cref="Profesor"/> dicta una clase.
+        /// Sobrecarga operador == El profesor es igual a la clase, si es ese mismo quien la da.
         /// </summary>
-        /// <param name="i">Profesor en el cual se verificara si dicta la clase.</param>
-        /// <param name="clase">Clase que se verificara si es dictada por el Profesor.</param>
-        /// <returns>Retorna <see cref="true"/> si el Profesor dicta la clase, <see cref="false"/> si no la dicta.</returns>
+        /// <param name="i"> Profesor a comparar </param>
+        /// <param name="clase"> Clase a comparar </param>
+        /// <returns>TRUE -> Son iguales // False -> No lo son </returns>
         public static bool operator ==(Profesor i, Universidad.EClases clase)
         {
             bool retorno = false;
             foreach (Universidad.EClases item in i.clasesDelDia)
             {
-                if(item == clase)
+                if (item == clase)
                 {
                     retorno = true;
                     break;

@@ -4,15 +4,14 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{AD8A46C1-0C0F-44F5-B67F-2CD0D5F5EE33}</ProjectGuid>
+    <ProjectGuid>{C294D462-A083-4162-B147-B408FC3F5DF8}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Test</RootNamespace>
-    <AssemblyName>Test</AssemblyName>
+    <RootNamespace>Console_TP3</RootNamespace>
+    <AssemblyName>Console TP3</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
     <Deterministic>true</Deterministic>
-    <TargetFrameworkProfile />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <PlatformTarget>AnyCPU</PlatformTarget>
@@ -34,22 +33,6 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="Archivos, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\Archivos\bin\Debug\Archivos.dll</HintPath>
-    </Reference>
-    <Reference Include="EntidadesAbstractas, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\EntidadesAbstractas\bin\Debug\EntidadesAbstractas.dll</HintPath>
-    </Reference>
-    <Reference Include="EntidadesInstanciables, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\EntidadesInstanciables\bin\Debug\EntidadesInstanciables.dll</HintPath>
-    </Reference>
-    <Reference Include="Excepciones, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\Excepciones\bin\Debug\Excepciones.dll</HintPath>
-    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
@@ -67,9 +50,21 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\UnitTestTP3\UnitTestTP3.csproj">
-      <Project>{7d9f84d8-8aa0-4081-b56f-45a592692d01}</Project>
-      <Name>UnitTestTP3</Name>
+    <ProjectReference Include="..\Archivos\Archivos.csproj">
+      <Project>{c7bef936-bb6c-4442-9f81-6883222b51fd}</Project>
+      <Name>Archivos</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\EntidadesAbstractas\EntidadesAbstractas.csproj">
+      <Project>{c0ddfd06-7f3d-4036-8e81-6d2c1f2cf37a}</Project>
+      <Name>EntidadesAbstractas</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\EntidadesInstanciables\EntidadesInstanciables.csproj">
+      <Project>{db3d3479-e862-4229-ac75-43b0ca59d504}</Project>
+      <Name>EntidadesInstanciables</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Excepciones\Excepciones.csproj">
+      <Project>{2f6e8217-e488-4bea-9a2b-71e341e0e233}</Project>
+      <Name>Excepciones</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

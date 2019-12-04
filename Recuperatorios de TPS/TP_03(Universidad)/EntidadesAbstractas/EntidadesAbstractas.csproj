@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{725C0D14-7A30-4120-B793-2B688667FAC3}</ProjectGuid>
+    <ProjectGuid>{C0DDFD06-7F3D-4036-8E81-6D2C1F2CF37A}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>EntidadesAbstractas</RootNamespace>
@@ -12,7 +12,6 @@
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>
-    <TargetFrameworkProfile />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
@@ -32,10 +31,6 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="Excepciones, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\Excepciones\bin\Debug\Excepciones.dll</HintPath>
-    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
@@ -51,9 +46,9 @@
     <Compile Include="Universitario.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Archivos\Archivos.csproj">
-      <Project>{15d431aa-917b-4d1b-a5c0-bdba7a327d0f}</Project>
-      <Name>Archivos</Name>
+    <ProjectReference Include="..\Excepciones\Excepciones.csproj">
+      <Project>{2f6e8217-e488-4bea-9a2b-71e341e0e233}</Project>
+      <Name>Excepciones</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

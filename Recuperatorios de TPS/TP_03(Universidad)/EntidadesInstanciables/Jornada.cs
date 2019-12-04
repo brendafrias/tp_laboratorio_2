@@ -87,6 +87,7 @@ namespace EntidadesInstanciables
         }
         #endregion
 
+
         #region Metodos
         /// <summary>
         /// Muestra los datos de una <see cref="Jornada"/>.
@@ -111,8 +112,8 @@ namespace EntidadesInstanciables
         /// <returns>Retorna <see cref="true"/> si logro guardar la <see cref="Jornada"/> con exito, <see cref="false"/> si no lo logro.</returns>
         public static bool Guardar(Jornada jornada)
         {
-            Texto texto = new Texto();   
-            return texto.Guardar((AppDomain.CurrentDomain.BaseDirectory + @"../../Archivos/Jornadas.txt"), jornada.ToString()); //Archivo localizado en: tp_laboratorio_2/Trabajo 3/Console TP3/Archivos/Jornadas.txt
+            Texto texto = new Texto();
+            return texto.Guardar((AppDomain.CurrentDomain.BaseDirectory + @"../../Jornada.txt"), jornada.ToString()); //Archivo localizado en: tp_laboratorio_2/Trabajo 3/Console TP3/Archivos/Jornadas.txt
         }
 
         /// <summary>
@@ -123,7 +124,7 @@ namespace EntidadesInstanciables
         {
             Texto texto = new Texto();
             string retorno = "";
-            texto.Leer((AppDomain.CurrentDomain.BaseDirectory + @"../../Archivos/Jornadas.txt"), out retorno); //Archivo localizado en: tp_laboratorio_2/Trabajo 3/Console TP3/Archivos/Jornadas.txt
+            texto.Leer((AppDomain.CurrentDomain.BaseDirectory + @"../../Jornada.txt"), out retorno); //Archivo localizado en: tp_laboratorio_2/Trabajo 3/Console TP3/Archivos/Jornadas.txt
             return retorno;
         }
         #endregion
@@ -137,7 +138,7 @@ namespace EntidadesInstanciables
         /// <returns>Retorna una <see cref="Jornada"/> con el alumno ya agregado a ella si este no forma parte. Si el alumno forma parte de la <see cref="Jornada"/>, se lanza <see cref="AlumnoRepetidoException"/>.</returns>
         public static Jornada operator +(Jornada j, Alumno a)
         {
-            if(j!=a)
+            if (j != a)
             {
                 j.Alumnos.Add(a);
             }
@@ -159,7 +160,7 @@ namespace EntidadesInstanciables
             bool retorno = false;
             foreach (Alumno alumno in j.Alumnos)
             {
-                if(alumno == a)
+                if (alumno == a)
                 {
                     retorno = true;
                     break;
@@ -181,3 +182,4 @@ namespace EntidadesInstanciables
         #endregion
     }
 }
+

@@ -75,7 +75,7 @@ namespace EntidadesInstanciables
         {
             get
             {
-                if(i >= 0 && i <this.Jornadas.Count)
+                if (i >= 0 && i < this.Jornadas.Count)
                 {
                     return this.Jornadas[i];
                 }
@@ -87,7 +87,7 @@ namespace EntidadesInstanciables
 
             set
             {
-                if(i >= 0 && i < this.Jornadas.Count)
+                if (i >= 0 && i < this.Jornadas.Count)
                 {
                     this.Jornadas[i] = value;
                 }
@@ -115,8 +115,8 @@ namespace EntidadesInstanciables
         /// <returns>Retorna <see cref="true"/> si se serializo exitosamente, <see cref="false"/> si no fue posible serializar.</returns>
         public static bool Guardar(Universidad uni)
         {
-            Xml<Universidad> xml = new Xml<Universidad>();              
-            return xml.Guardar((AppDomain.CurrentDomain.BaseDirectory + @"../../Archivos/Universidad.xml"), uni); //Archivo localizado en: tp_laboratorio_2/Trabajo 3/Console TP3/Archivos/Universidad.xml
+            Xml<Universidad> xml = new Xml<Universidad>();
+            return xml.Guardar((AppDomain.CurrentDomain.BaseDirectory + @"../../Universidad.xml"), uni); //Archivo localizado en: tp_laboratorio_2/Trabajo 3/Console TP3/Archivos/Universidad.xml
         }
 
         /// <summary>
@@ -127,7 +127,7 @@ namespace EntidadesInstanciables
         {
             Universidad retorno = new Universidad();
             Xml<Universidad> xml = new Xml<Universidad>();
-            xml.Leer((AppDomain.CurrentDomain.BaseDirectory + @"../../Archivos/Universidad.xml"), out retorno);//Archivo localizado en: tp_laboratorio_2/Trabajo 3/Console TP3/Archivos/Universidad.xml
+            xml.Leer((AppDomain.CurrentDomain.BaseDirectory + @"../../Universidad.xml"), out retorno);//Archivo localizado en: tp_laboratorio_2/Trabajo 3/Console TP3/Archivos/Universidad.xml
             return retorno;
         }
 
@@ -170,7 +170,7 @@ namespace EntidadesInstanciables
             bool retorno = false;
             foreach (Alumno alumno in g.Alumnos)
             {
-                if(a == alumno)
+                if (a == alumno)
                 {
                     retorno = true;
                     break;
@@ -201,7 +201,7 @@ namespace EntidadesInstanciables
             bool retorno = false;
             foreach (Profesor profesor in g.Instructores)
             {
-                if(profesor == i)
+                if (profesor == i)
                 {
                     retorno = true;
                     break;
@@ -232,18 +232,18 @@ namespace EntidadesInstanciables
             Profesor retorno = null;
             foreach (Profesor profesor in u.Instructores)
             {
-                if(profesor == clase)
+                if (profesor == clase)
                 {
                     retorno = profesor;
                     break;
                 }
             }
 
-            if(retorno is null)
+            if (retorno is null)
             {
                 throw new SinProfesorException();
             }
-           return retorno;
+            return retorno;
         }
 
         /// <summary>
@@ -257,7 +257,7 @@ namespace EntidadesInstanciables
             Profesor retorno = null;
             foreach (Profesor profesor in u.Instructores)
             {
-                if(profesor!=clase)
+                if (profesor != clase)
                 {
                     retorno = profesor;
                     break;
@@ -281,7 +281,7 @@ namespace EntidadesInstanciables
             {
                 if (alumno == clase)
                 {
-                    jornada +=alumno;
+                    jornada += alumno;
                 }
             }
             g.Jornadas.Add(jornada);
@@ -296,7 +296,7 @@ namespace EntidadesInstanciables
         /// <returns>Retorna una <see cref="Universidad"/> con el <see cref="Alumno"/> agregado. Si el Alumno esta repetido y no fue posible agregarlo, se lanza <see cref="AlumnoRepetidoException"/>.</returns>
         public static Universidad operator +(Universidad u, Alumno a)
         {
-            if(u!=a)
+            if (u != a)
             {
                 u.Alumnos.Add(a);
             }
@@ -315,7 +315,7 @@ namespace EntidadesInstanciables
         /// <returns>Retorna una <see cref="Universidad"/> con el <see cref="Profesor"/> agregado. Si no fue posible agregarlo, retorna la misma <see cref="Universidad"/> pasada por parametro.</returns>
         public static Universidad operator +(Universidad u, Profesor i)
         {
-            if(u!=i)
+            if (u != i)
             {
                 u.Instructores.Add(i);
             }

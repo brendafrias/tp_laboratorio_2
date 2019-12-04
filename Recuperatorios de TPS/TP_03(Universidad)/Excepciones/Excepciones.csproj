@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{A13253A0-202C-4946-AE96-9247FE0BB3C3}</ProjectGuid>
+    <ProjectGuid>{2F6E8217-E488-4BEA-9A2B-71E341E0E233}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>Excepciones</RootNamespace>
@@ -12,7 +12,6 @@
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>
-    <TargetFrameworkProfile />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
@@ -32,19 +31,6 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="Archivos">
-      <HintPath>..\Archivos\bin\Debug\Archivos.dll</HintPath>
-    </Reference>
-    <Reference Include="EntidadesAbstractas">
-      <HintPath>..\EntidadesAbstractas\bin\Debug\EntidadesAbstractas.dll</HintPath>
-    </Reference>
-    <Reference Include="EntidadesInstanciables">
-      <HintPath>..\EntidadesInstanciables\bin\Debug\EntidadesInstanciables.dll</HintPath>
-    </Reference>
-    <Reference Include="Excepciones, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <SpecificVersion>False</SpecificVersion>
-      <HintPath>bin\Debug\Excepciones.dll</HintPath>
-    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />

@@ -9,19 +9,20 @@ namespace Archivos
     public interface IArchivo<T>
     {
         /// <summary>
-        /// Metodo que Guarda los datos especificados en un Archivo.
+        /// Metodo de la Interfaz para ghuardar archivos.
         /// </summary>
-        /// <param name="archivo">Ruta al Archivo.</param>
-        /// <param name="datos">Datos a guardar en el Archivo</param>
-        /// <returns>Retorna <see cref="true"/> si el Archivo se guardo exitosamente, <see cref="false"/> si no pudo guardarse.</returns>
+        /// <param name="archivo"> Archivo </param>
+        /// <param name="datos"> Datos </param>
+        /// <returns></returns>
         bool Guardar(string archivo, T datos);
 
+
         /// <summary>
-        /// Metodo que Lee un archivo de texto.
+        /// Metodo de interfaz para leer los datos del archivo.
         /// </summary>
-        /// <param name="archivo">Ruta al Archivo.</param>
-        /// <param name="datos">Parametro de salida de los datos</param>
-        /// <returns>Retorna <see cref="true"/> si el Archivo se leyó exitosamente, <see cref="false"/> si no pudo leerse.</returns>
+        /// <param name="archivo"> Archivo </param>
+        /// <param name="datos"> Datos </param>
+        /// <returns></returns>
         bool Leer(string archivo, out T datos);
     }
 }

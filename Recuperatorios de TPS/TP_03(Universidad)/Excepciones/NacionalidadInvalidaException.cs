@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Excepciones
 {
-     public class NacionalidadInvalidaException : Exception
+    public class NacionalidadInvalidaException : Exception
     {
         /// <summary>
         /// Inicializa una nueva instancia de la clase <see cref="NacionalidadInvalidaException"/>.
@@ -24,3 +24,4 @@ namespace Excepciones
         }
     }
 }
+

@@ -9,26 +9,28 @@ namespace EntidadesAbstractas
     public abstract class Universitario : Persona
     {
         #region Atributos
+        // Atributo privado que representa legajo.
         private int legajo;
         #endregion
 
         #region Constructor
         /// <summary>
-        /// Inicializa una nueva instancia de la clase <see cref="Universitario"/>.
+        /// Constructor por defecto de Universitario.
         /// </summary>
         public Universitario()
         {
         }
 
         /// <summary>
-        /// Inicializa una nueva instancia de la clase <see cref="Universitario"/>. 
+        /// Constructor de Universitario con 3 parametros.
+        /// Establñece los parametros propios y establece los heredados.
         /// </summary>
-        /// <param name="legajo">Legajo del Universitario.</param>
-        /// <param name="nombre">Nombre del Universitario</param>
-        /// <param name="apellido">Apellido del Universitario</param>
-        /// <param name="dni">DNI del Universitario</param>
-        /// <param name="nacionalidad">Nacionalidad del Universitario</param>
-        public Universitario(int legajo, string nombre, string apellido, string dni, ENacionalidad nacionalidad) : base(nombre,apellido,dni,nacionalidad)
+        /// <param name="legajo"> Legajo de universitario </param>
+        /// <param name="nombre"> Nombre de universitario </param>
+        /// <param name="apellido"> Apellido de unviersitario </param>
+        /// <param name="dni"> DNI del universitario </param>
+        /// <param name="nacionalidad"> Nacionalidad de universitario </param>
+        public Universitario(int legajo, string nombre, string apellido, string dni, ENacionalidad nacionalidad) : base(nombre, apellido, dni, nacionalidad)
         {
             this.legajo = legajo;
         }
@@ -37,9 +39,9 @@ namespace EntidadesAbstractas
         #region Metodos
 
         /// <summary>
-        /// Muestra los datos de un <see cref="Universitario"/>
+        /// Metodo que muestra los datos de Universitaerio.
         /// </summary>
-        /// <returns>Retorna un <see cref="string"/> con los datos del <see cref="Universitario"/></returns>
+        /// <returns> Datos del universitario </returns>
         protected virtual string MostrarDatos()
         {
             StringBuilder sb = new StringBuilder();
@@ -51,18 +53,17 @@ namespace EntidadesAbstractas
         /// <summary>
         /// Metodo abstracto sin implementacion.
         /// </summary>
-        /// <returns>Retorna un <see cref="string"/></returns>
         protected abstract string ParticiparEnClase();
 
         /// <summary>
-        /// Compara un <see cref="object"/> con un <see cref="Universitario"/>
-        /// </summary>
-        /// <param name="obj">Objeto a comparar con la instancia de <seealso cref="Universitario"/></param>
-        /// <returns>Retorna <see cref="true"/> si son iguales, <see cref="false"/> si no lo son.</returns>
+        /// Sobrecarga Equals. Compara si 2 son del mismo tipo, y llama a la sobrecarga ==.
+        /// </summary> 
+        /// <param name="obj"> Objeto que se va a comparar </param>
+        /// <returns> True -> Son iguales // False -> No lo son </returns>
         public override bool Equals(object obj)
         {
             bool retorno = false;
-            if(obj is Universitario)
+            if (obj is Universitario)
             {
                 retorno = (((Universitario)obj) == this);
             }
@@ -72,22 +73,22 @@ namespace EntidadesAbstractas
 
         #region Operadores
         /// <summary>
-        /// Compara si dos instancias de tipo <see cref="Universitario"/> son iguales.
+        /// Sobrecarga del operador ==. Para saber si sus legajos y DNI son iguales.
         /// </summary>
-        /// <param name="pg1">Primera instancia a comparar.</param>
-        /// <param name="pg2">Segunda instancia a comparar.</param>
-        /// <returns>Retorna <see cref="true"/> si son iguales, <see cref="false"/> si no lo son.</returns>
+        /// <param name="pg1"> Universitario 1 </param>
+        /// <param name="pg2"> Universitario 2 </param>
+        /// <returns> True -> Son iguales // False -> No lo son </returns>
         public static bool operator ==(Universitario pg1, Universitario pg2)
         {
             return (pg1.DNI == pg2.DNI || pg1.legajo == pg2.legajo);
         }
 
         /// <summary>
-        /// Compara si dos instancias de tipo <see cref="Universitario"/> son distintas.
+        /// Sobrecarga del operador !=. Para saber si sus legajos y DNI son distintos.
         /// </summary>
-        /// <param name="pg1">Primera instancia a comparar.</param>
-        /// <param name="pg2">Segunda instancia a comparar.</param>
-        /// <returns>Retorna <see cref="true"/> si son distintas, <see cref="false"/> si no lo son. </returns>
+        /// <param name="pg1"> Universitario 1 </param>
+        /// <param name="pg2"> Universitario 2 </param>
+        /// <returns> True -> Son distintos // False -> No lo son </returns>
         public static bool operator !=(Universitario pg1, Universitario pg2)
         {
             return !(pg1 == pg2);
@@ -95,3 +96,4 @@ namespace EntidadesAbstractas
         #endregion
     }
 }
+

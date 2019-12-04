@@ -117,7 +117,7 @@ namespace Test
                 int jornada = 0;
                 Jornada.Guardar(uni[jornada]);
                 Console.WriteLine("Archivo de Jornada {0} guardado.", jornada);
-               
+
             }
             catch (ArchivosException e)
             {
@@ -127,3 +127,4 @@ namespace Test
         }
     }
 }
+

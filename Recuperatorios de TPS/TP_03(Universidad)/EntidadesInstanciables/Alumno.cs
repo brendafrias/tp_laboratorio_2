@@ -10,7 +10,9 @@ namespace EntidadesInstanciables
     public sealed class Alumno : Universitario
     {
         #region Atributos
+        // Atributo privado para clases que toma.
         private Universidad.EClases claseQueToma;
+        // Enumerado privado para estado de cuenta.
         private EEstadoCuenta estadoCuenta;
         #endregion
 
@@ -31,7 +33,7 @@ namespace EntidadesInstanciables
         /// <param name="dni">DNI del Alumno</param>
         /// <param name="nacionalidad">Nacionalidad del Alumno</param>
         /// <param name="claseQueToma">Clase que toma el Alumno</param>
-        public Alumno(int id, string nombre, string apellido, string dni, ENacionalidad nacionalidad, Universidad.EClases claseQueToma) : base(id,nombre,apellido,dni,nacionalidad)
+        public Alumno(int id, string nombre, string apellido, string dni, ENacionalidad nacionalidad, Universidad.EClases claseQueToma) : base(id, nombre, apellido, dni, nacionalidad)
         {
             this.claseQueToma = claseQueToma;
         }
@@ -46,7 +48,7 @@ namespace EntidadesInstanciables
         /// <param name="nacionalidad">Nacionalidad del Alumno</param>
         /// <param name="claseQueToma">Clase que toma el Alumno</param>
         /// <param name="estadoCuenta">Estado de la cuenta del Alumno</param>
-        public Alumno(int id, string nombre, string apellido, string dni, ENacionalidad nacionalidad, Universidad.EClases claseQueToma, EEstadoCuenta estadoCuenta) : this(id,nombre,apellido,dni,nacionalidad,claseQueToma)
+        public Alumno(int id, string nombre, string apellido, string dni, ENacionalidad nacionalidad, Universidad.EClases claseQueToma, EEstadoCuenta estadoCuenta) : this(id, nombre, apellido, dni, nacionalidad, claseQueToma)
         {
             this.estadoCuenta = estadoCuenta;
         }
@@ -130,3 +132,4 @@ namespace EntidadesInstanciables
         #endregion
     }
 }
+

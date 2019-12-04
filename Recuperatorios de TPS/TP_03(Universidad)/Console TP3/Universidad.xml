@@ -3,104 +3,110 @@
   <Alumnos>
     <Alumno>
       <Apellido>Lopez</Apellido>
+      <Nombre>Juan</Nombre>
       <DNI>12234456</DNI>
       <Nacionalidad>Argentino</Nacionalidad>
-      <Nombre>Juan</Nombre>
+    </Alumno>
+    <Alumno>
+      <Apellido>Martinez</Apellido>
+      <Nombre>Juana</Nombre>
+      <DNI>12234458</DNI>
+      <Nacionalidad>Extranjero</Nacionalidad>
     </Alumno>
     <Alumno>
       <Apellido>Hernandez</Apellido>
+      <Nombre>Miguel</Nombre>
       <DNI>92264456</DNI>
       <Nacionalidad>Extranjero</Nacionalidad>
-      <Nombre>Miguel</Nombre>
     </Alumno>
     <Alumno>
       <Apellido>Gonzalez</Apellido>
+      <Nombre>Carlos</Nombre>
       <DNI>12236456</DNI>
       <Nacionalidad>Argentino</Nacionalidad>
-      <Nombre>Carlos</Nombre>
     </Alumno>
     <Alumno>
       <Apellido>Perez</Apellido>
+      <Nombre>Juan</Nombre>
       <DNI>12234656</DNI>
       <Nacionalidad>Argentino</Nacionalidad>
-      <Nombre>Juan</Nombre>
     </Alumno>
     <Alumno>
       <Apellido>Suarez</Apellido>
+      <Nombre>Joaquin</Nombre>
       <DNI>91122456</DNI>
       <Nacionalidad>Extranjero</Nacionalidad>
-      <Nombre>Joaquin</Nombre>
     </Alumno>
     <Alumno>
       <Apellido>Smith</Apellido>
+      <Nombre>Rodrigo</Nombre>
       <DNI>22236456</DNI>
       <Nacionalidad>Argentino</Nacionalidad>
-      <Nombre>Rodrigo</Nombre>
     </Alumno>
   </Alumnos>
   <Instructores>
     <Profesor>
       <Apellido>Lopez</Apellido>
+      <Nombre>Juan</Nombre>
       <DNI>12234456</DNI>
       <Nacionalidad>Argentino</Nacionalidad>
-      <Nombre>Juan</Nombre>
     </Profesor>
     <Profesor>
       <Apellido>Juarez</Apellido>
+      <Nombre>Roberto</Nombre>
       <DNI>32234456</DNI>
       <Nacionalidad>Argentino</Nacionalidad>
-      <Nombre>Roberto</Nombre>
     </Profesor>
   </Instructores>
   <Jornadas>
     <Jornada>
       <Alumnos>
         <Alumno>
-          <Apellido>Suarez</Apellido>
-          <DNI>91122456</DNI>
-          <Nacionalidad>Extranjero</Nacionalidad>
-          <Nombre>Joaquin</Nombre>
+          <Apellido>Lopez</Apellido>
+          <Nombre>Juan</Nombre>
+          <DNI>12234456</DNI>
+          <Nacionalidad>Argentino</Nacionalidad>
+        </Alumno>
+        <Alumno>
+          <Apellido>Gonzalez</Apellido>
+          <Nombre>Carlos</Nombre>
+          <DNI>12236456</DNI>
+          <Nacionalidad>Argentino</Nacionalidad>
         </Alumno>
       </Alumnos>
-      <Clase>Laboratorio</Clase>
+      <Clase>Programacion</Clase>
       <Instructor>
-        <Apellido>Lopez</Apellido>
-        <DNI>12234456</DNI>
+        <Apellido>Juarez</Apellido>
+        <Nombre>Roberto</Nombre>
+        <DNI>32234456</DNI>
         <Nacionalidad>Argentino</Nacionalidad>
-        <Nombre>Juan</Nombre>
       </Instructor>
     </Jornada>
     <Jornada>
       <Alumnos>
         <Alumno>
-          <Apellido>Hernandez</Apellido>
-          <DNI>92264456</DNI>
+          <Apellido>Suarez</Apellido>
+          <Nombre>Joaquin</Nombre>
+          <DNI>91122456</DNI>
           <Nacionalidad>Extranjero</Nacionalidad>
-          <Nombre>Miguel</Nombre>
-        </Alumno>
-        <Alumno>
-          <Apellido>Smith</Apellido>
-          <DNI>22236456</DNI>
-          <Nacionalidad>Argentino</Nacionalidad>
-          <Nombre>Rodrigo</Nombre>
         </Alumno>
       </Alumnos>
-      <Clase>Legislacion</Clase>
+      <Clase>Laboratorio</Clase>
       <Instructor>
         <Apellido>Lopez</Apellido>
+        <Nombre>Juan</Nombre>
         <DNI>12234456</DNI>
         <Nacionalidad>Argentino</Nacionalidad>
-        <Nombre>Juan</Nombre>
       </Instructor>
     </Jornada>
     <Jornada>
       <Alumnos />
       <Clase>SPD</Clase>
       <Instructor>
-        <Apellido>Juarez</Apellido>
-        <DNI>32234456</DNI>
+        <Apellido>Lopez</Apellido>
+        <Nombre>Juan</Nombre>
+        <DNI>12234456</DNI>
         <Nacionalidad>Argentino</Nacionalidad>
-        <Nombre>Roberto</Nombre>
       </Instructor>
     </Jornada>
   </Jornadas>
