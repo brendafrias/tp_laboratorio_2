@@ -10,3 +10,15 @@ C:\Users\Brenda\Desktop\Frias.Brenda.2A.TP4\MainCorreo\bin\Debug\Frias.Brenda.2A
 C:\Users\Brenda\Desktop\Frias.Brenda.2A.TP4\MainCorreo\obj\Debug\MainCorreo.csproj.CopyComplete
 C:\Users\Brenda\Desktop\Frias.Brenda.2A.TP4\MainCorreo\obj\Debug\MainCorreo.exe
 C:\Users\Brenda\Desktop\Frias.Brenda.2A.TP4\MainCorreo\obj\Debug\MainCorreo.pdb
+C:\Users\Brenda\Desktop\tp_laboratorio_2\Recuperatorios de TPS\TP_04(Correo)\MainCorreo\obj\Debug\MainCorreo.csprojAssemblyReference.cache
+C:\Users\Brenda\Desktop\tp_laboratorio_2\Recuperatorios de TPS\TP_04(Correo)\MainCorreo\obj\Debug\MainCorreo.Properties.Resources.resources
+C:\Users\Brenda\Desktop\tp_laboratorio_2\Recuperatorios de TPS\TP_04(Correo)\MainCorreo\obj\Debug\MainCorreo.csproj.GenerateResource.cache
+C:\Users\Brenda\Desktop\tp_laboratorio_2\Recuperatorios de TPS\TP_04(Correo)\MainCorreo\obj\Debug\MainCorreo.csproj.CoreCompileInputs.cache
+C:\Users\Brenda\Desktop\tp_laboratorio_2\Recuperatorios de TPS\TP_04(Correo)\MainCorreo\bin\Debug\MainCorreo.exe.config
+C:\Users\Brenda\Desktop\tp_laboratorio_2\Recuperatorios de TPS\TP_04(Correo)\MainCorreo\bin\Debug\MainCorreo.exe
+C:\Users\Brenda\Desktop\tp_laboratorio_2\Recuperatorios de TPS\TP_04(Correo)\MainCorreo\bin\Debug\MainCorreo.pdb
+C:\Users\Brenda\Desktop\tp_laboratorio_2\Recuperatorios de TPS\TP_04(Correo)\MainCorreo\bin\Debug\Entidades.dll
+C:\Users\Brenda\Desktop\tp_laboratorio_2\Recuperatorios de TPS\TP_04(Correo)\MainCorreo\bin\Debug\Entidades.pdb
+C:\Users\Brenda\Desktop\tp_laboratorio_2\Recuperatorios de TPS\TP_04(Correo)\MainCorreo\obj\Debug\MainCorreo.csproj.CopyComplete
+C:\Users\Brenda\Desktop\tp_laboratorio_2\Recuperatorios de TPS\TP_04(Correo)\MainCorreo\obj\Debug\MainCorreo.exe
+C:\Users\Brenda\Desktop\tp_laboratorio_2\Recuperatorios de TPS\TP_04(Correo)\MainCorreo\obj\Debug\MainCorreo.pdb
