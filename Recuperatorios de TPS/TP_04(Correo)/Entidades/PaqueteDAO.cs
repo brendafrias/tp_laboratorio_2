@@ -38,7 +38,7 @@ namespace Entidades
         public static bool Insertar(Paquete p)
         {
             PaqueteDAO._comando.CommandType = System.Data.CommandType.Text;
-            PaqueteDAO._comando.CommandText = String.Format("INSERT INTO Paquetes values('{0}','{1}','{2}')", p.DireccionEntrega, p.TrackingID, "Agustin Gomez");
+            PaqueteDAO._comando.CommandText = String.Format("INSERT INTO Paquetes values('{0}','{1}','{2}')", p.DireccionEntrega, p.TrackingID, "Brenda Frias");
             PaqueteDAO._comando.Connection = PaqueteDAO._conexion;
             try
             {
