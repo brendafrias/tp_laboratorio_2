@@ -21,7 +21,7 @@ namespace Archivos
             bool retorno = false;
             try
             {
-                using (StreamWriter stream = new StreamWriter(archivo, false))
+                using (StreamWriter stream = new StreamWriter(archivo))
                 {
                     stream.Write(datos);
                     retorno = true;

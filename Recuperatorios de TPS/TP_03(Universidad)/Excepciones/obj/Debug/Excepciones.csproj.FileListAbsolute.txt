@@ -4,3 +4,9 @@ C:\Users\Brenda\Desktop\Frias.Brenda.2A.TP3\Excepciones\obj\Debug\Excepciones.cs
 C:\Users\Brenda\Desktop\Frias.Brenda.2A.TP3\Excepciones\obj\Debug\Excepciones.csproj.CoreCompileInputs.cache
 C:\Users\Brenda\Desktop\Frias.Brenda.2A.TP3\Excepciones\obj\Debug\Excepciones.dll
 C:\Users\Brenda\Desktop\Frias.Brenda.2A.TP3\Excepciones\obj\Debug\Excepciones.pdb
+C:\Users\Brenda\Desktop\tp_laboratorio_2\Recuperatorios de TPS\TP_03(Universidad)\Excepciones\bin\Debug\Excepciones.dll
+C:\Users\Brenda\Desktop\tp_laboratorio_2\Recuperatorios de TPS\TP_03(Universidad)\Excepciones\bin\Debug\Excepciones.pdb
+C:\Users\Brenda\Desktop\tp_laboratorio_2\Recuperatorios de TPS\TP_03(Universidad)\Excepciones\obj\Debug\Excepciones.csprojAssemblyReference.cache
+C:\Users\Brenda\Desktop\tp_laboratorio_2\Recuperatorios de TPS\TP_03(Universidad)\Excepciones\obj\Debug\Excepciones.csproj.CoreCompileInputs.cache
+C:\Users\Brenda\Desktop\tp_laboratorio_2\Recuperatorios de TPS\TP_03(Universidad)\Excepciones\obj\Debug\Excepciones.dll
+C:\Users\Brenda\Desktop\tp_laboratorio_2\Recuperatorios de TPS\TP_03(Universidad)\Excepciones\obj\Debug\Excepciones.pdb

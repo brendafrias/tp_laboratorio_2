@@ -1,2 +1,0 @@
-C:\Users\Brenda\Desktop\Frias.Brenda.2A.TP4\UnitTestTP4\obj\Debug\UnitTestTP4.csprojAssemblyReference.cache
-C:\Users\Brenda\Desktop\Frias.Brenda.2A.TP4\UnitTestTP4\obj\Debug\UnitTestTP4.csproj.CoreCompileInputs.cache
